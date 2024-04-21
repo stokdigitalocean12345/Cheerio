@@ -101,3 +101,4 @@ https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt
 https://raw.githubusercontent.com/Firdoxx/proxy-list/main/http
 https://raw.githubusercontent.com/Firdoxx/proxy-list/main/https
 https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/http_proxies.txt
+https://raw.githubusercontent.com/stokdigitalocean12345/Cheerio/main/puki.txt
